@@ -1,0 +1,90 @@
+C:\Users\jan11\source\repos\Multi-Login\bin\Debug\Multi-Login.exe.config
+C:\Users\jan11\source\repos\Multi-Login\bin\Debug\Multi-Login.exe
+C:\Users\jan11\source\repos\Multi-Login\bin\Debug\Multi-Login.pdb
+C:\Users\jan11\source\repos\Multi-Login\bin\Debug\MaterialDesignColors.dll
+C:\Users\jan11\source\repos\Multi-Login\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jan11\source\repos\Multi-Login\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jan11\source\repos\Multi-Login\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jan11\source\repos\Multi-Login\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\Multi-Login.csprojAssemblyReference.cache
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\MainWindow.g.cs
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\App.g.cs
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\Multi-Login_MarkupCompile.cache
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\Multi-Login_MarkupCompile.lref
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\App.baml
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\MainWindow.baml
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\Multi-Login.g.resources
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\Multi_Login.Properties.Resources.resources
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\Multi-Login.csproj.GenerateResource.cache
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\Multi-Login.csproj.CoreCompileInputs.cache
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\Multi-Login.csproj.CopyComplete
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\Multi-Login.exe
+C:\Users\jan11\source\repos\Multi-Login\obj\Debug\Multi-Login.pdb
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\Multi-Login.exe.config
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\Multi-Login.exe
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\Multi-Login.pdb
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\MaterialDesignColors.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\Multi-Login.csproj.AssemblyReference.cache
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\MainWindow.g.cs
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\App.g.cs
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\Multi-Login_MarkupCompile.cache
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\Multi-Login_MarkupCompile.lref
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\App.baml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\MainWindow.baml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\Multi-Login.g.resources
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\Multi_Login.Properties.Resources.resources
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\Multi-Login.csproj.GenerateResource.cache
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\Multi-Login.csproj.CoreCompileInputs.cache
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\Multi-Login.csproj.CopyComplete
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\Multi-Login.exe
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\Multi-Login.pdb
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\Google.Protobuf.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\MySql.Data.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Buffers.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Memory.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Runtime.Loader.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Security.Permissions.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Text.Json.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\ZstdSharp.dll
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\Google.Protobuf.pdb
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\Google.Protobuf.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\MySql.Data.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Buffers.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Memory.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Security.Permissions.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Text.Json.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\DashboardScreen.g.cs
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\DashboardScreen.baml
+C:\Users\MagnaV\Downloads\Prog Lab\New folder\Multi-login-CSharp-WPF-master\obj\Debug\GeneratedInternalTypeHelper.g.cs
